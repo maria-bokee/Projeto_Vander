@@ -1,4 +1,17 @@
 body{
-    color:blue;
-    font-size:40px;
+  margin: 0;;
+  padding: 0 ;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+body{
+    background-color: #e4dbc9
+}
+.navegacao{
+    width: 100%; 
+    top: 0;
+    position:fixed;
+    background: rgba(255, 246, 203, 0.8);
+    padding: 1.5rem;
+    z-index: 100;
 }
